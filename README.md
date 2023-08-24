@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-My name is Eva and I'm a Junior majoring in CS with a minor in Statistics and Machine Learning at Princeton University. In my free time I like to read, write, do yoga, and work as a barista at my school's student run coffee shop :)
+My name is Eva and I'm a Senior majoring in CS with a minor in Statistics and Machine Learning at Princeton University. In my free time I like to read, write, do yoga, and work as a barista at my school's student run coffee shop :)
 
 - [My Website](https://evavesely.vercel.app/)
 - [My Resume](https://drive.google.com/file/d/1VUHL5nbnKMk1zi_MVFc1TDIkxQ9o1Kha/view?usp=share_link)
