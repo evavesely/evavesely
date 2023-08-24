@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Eva and I'm a Senior majoring in CS with a minor in Statistics and Machine Learning at Princeton University. In my free time I like to read, write, do yoga, and work as a barista at my school's student run coffee shop :)
 
 - [My Website](https://evavesely.vercel.app/)
-- [My Resume](https://drive.google.com/file/d/1VUHL5nbnKMk1zi_MVFc1TDIkxQ9o1Kha/view?usp=share_link)
+- [My Resume](https://drive.google.com/file/d/17EJ_JuzGgtBcr16S-2-TeQq1NlnLAOBB/view?usp=sharing)
 - [My LinkedIn](https://www.linkedin.com/in/eva-vesely-17a275204/)
 
 ## Bio
