@@ -24,7 +24,7 @@ My name is Eva and I'm a Senior majoring in CS with a minor in Statistics and Ma
 
 ## Bio
 - :books: Student at Princeton University (class of 2024)
-- :robot: Digital Automation inter at [First Citizens Banks](https://www.firstcitizens.com/) (summer of 2023)
+- :robot: Digital Automation intern at [First Citizens Banks](https://www.firstcitizens.com/) (summer of 2023)
 - :rocket: Engineering/IT intern at [Rocket Lawyer](https://www.rocketlawyer.com/) (summer of 2022)
 - :desktop_computer: Instructor at [Coding4Youth](https://www.coding4youth.org/welcome) (summer of 2021)
 
